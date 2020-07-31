@@ -1,0 +1,6 @@
+git init  ( Initialize your repository)
+git status ( Check the status of your files and folders)
+git add .  ( Will add the chnages to your local repository)
+git commit -am 'My first node app'
+git push origin master 
+git pull origin master
