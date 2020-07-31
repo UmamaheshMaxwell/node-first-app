@@ -4,3 +4,10 @@ git add .  ( Will add the chnages to your local repository)
 git commit -am 'My first node app'
 git push origin master 
 git pull origin master
+git branch ( check your current branch)
+git checkout -b feature/add-new-files
+git checkout branchname ( master or feature/add-new-files)
+
+-- for the first time git users
+git config --global user.name "Umamaheswararao Meka"
+git config --global user.email "umamahesh_m16@yahoo.co.in"
